@@ -18,7 +18,7 @@ public class ArithematicOperators {
 		double res3 = a / b;
 		System.out.println(res3);
 		
-		double res4 = a % b;			// modulo operator. It shows reminder
+		double res4 = a % b;			// modulo operator. It shows reminder. It's very useful
 		System.out.println(res4);
 		
 		
